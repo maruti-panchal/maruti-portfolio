@@ -208,7 +208,7 @@ const App = () => {
           <Toolbar>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
               <Link href="#" color="inherit" underline="none">
-                Your Name
+                Maruti Panchal
               </Link>
             </Typography>
             {isMobile ? (
@@ -279,7 +279,7 @@ const App = () => {
         >
           <Container maxWidth="md">
             <Typography variant="h1" gutterBottom>
-              I'm Your Name.
+              I'm Maruti Panchal.
             </Typography>
             <Typography variant="h4" color="primary" paragraph>
               A passionate developer building modern and intuitive web
